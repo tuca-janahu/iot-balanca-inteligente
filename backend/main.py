@@ -20,7 +20,7 @@ def telemetry():
     Espera um JSON do ESP no formato, por exemplo:
 
     {
-        "capacity_pct": 73.2,     // 0–100 (% cheio)": 72.5,
+        "capacity_pct": 73.2,     // 0-100 (% cheio)": 72.5,
         "below_limit": false,
         "timestamp": 1710000000  // opcional (epoch s ou ms)
     }
