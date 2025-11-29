@@ -156,10 +156,11 @@ cd backend
 python main.py
 ```
 ## MQTT (Mosquitto)
-
-* Instalar o mosquitto através do link: (Windows)
+### Windows
+* Instalar o mosquitto através do link: 
 https://mosquitto.org/download/
 
+### Linux
 ```bash
 sudo apt update
 sudo apt install mosquitto mosquitto-clients
